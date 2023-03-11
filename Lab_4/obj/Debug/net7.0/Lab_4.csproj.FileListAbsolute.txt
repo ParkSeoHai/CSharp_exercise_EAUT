@@ -1,0 +1,15 @@
+D:\Workspace\C#\Lab\Lab_4\obj\Debug\net7.0\Lab_4.csproj.AssemblyReference.cache
+D:\Workspace\C#\Lab\Lab_4\obj\Debug\net7.0\Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\Lab\Lab_4\obj\Debug\net7.0\Lab_4.AssemblyInfoInputs.cache
+D:\Workspace\C#\Lab\Lab_4\obj\Debug\net7.0\Lab_4.AssemblyInfo.cs
+D:\Workspace\C#\Lab\Lab_4\obj\Debug\net7.0\Lab_4.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Lab\Lab_4\bin\Debug\net7.0\Lab_4.exe
+D:\Workspace\C#\Lab\Lab_4\bin\Debug\net7.0\Lab_4.deps.json
+D:\Workspace\C#\Lab\Lab_4\bin\Debug\net7.0\Lab_4.runtimeconfig.json
+D:\Workspace\C#\Lab\Lab_4\bin\Debug\net7.0\Lab_4.dll
+D:\Workspace\C#\Lab\Lab_4\bin\Debug\net7.0\Lab_4.pdb
+D:\Workspace\C#\Lab\Lab_4\obj\Debug\net7.0\Lab_4.dll
+D:\Workspace\C#\Lab\Lab_4\obj\Debug\net7.0\refint\Lab_4.dll
+D:\Workspace\C#\Lab\Lab_4\obj\Debug\net7.0\Lab_4.pdb
+D:\Workspace\C#\Lab\Lab_4\obj\Debug\net7.0\Lab_4.genruntimeconfig.cache
+D:\Workspace\C#\Lab\Lab_4\obj\Debug\net7.0\ref\Lab_4.dll

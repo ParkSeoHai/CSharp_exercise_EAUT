@@ -1,0 +1,8 @@
+D:\Workspace\C#\Lab2\Lab5_Test\Lab5_Test\bin\Debug\Lab5_Test.exe.config
+D:\Workspace\C#\Lab2\Lab5_Test\Lab5_Test\bin\Debug\Lab5_Test.exe
+D:\Workspace\C#\Lab2\Lab5_Test\Lab5_Test\bin\Debug\Lab5_Test.pdb
+D:\Workspace\C#\Lab2\Lab5_Test\Lab5_Test\obj\Debug\Lab5_Test.csproj.AssemblyReference.cache
+D:\Workspace\C#\Lab2\Lab5_Test\Lab5_Test\obj\Debug\Lab5_Test.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Lab2\Lab5_Test\Lab5_Test\obj\Debug\Lab5_Test.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Lab2\Lab5_Test\Lab5_Test\obj\Debug\Lab5_Test.exe
+D:\Workspace\C#\Lab2\Lab5_Test\Lab5_Test\obj\Debug\Lab5_Test.pdb

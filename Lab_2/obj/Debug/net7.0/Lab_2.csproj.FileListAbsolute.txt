@@ -1,0 +1,15 @@
+D:\Workspace\C#\Lab\Lab_2\bin\Debug\net7.0\Lab_2.exe
+D:\Workspace\C#\Lab\Lab_2\bin\Debug\net7.0\Lab_2.deps.json
+D:\Workspace\C#\Lab\Lab_2\bin\Debug\net7.0\Lab_2.runtimeconfig.json
+D:\Workspace\C#\Lab\Lab_2\bin\Debug\net7.0\Lab_2.dll
+D:\Workspace\C#\Lab\Lab_2\bin\Debug\net7.0\Lab_2.pdb
+D:\Workspace\C#\Lab\Lab_2\obj\Debug\net7.0\Lab_2.csproj.AssemblyReference.cache
+D:\Workspace\C#\Lab\Lab_2\obj\Debug\net7.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\Lab\Lab_2\obj\Debug\net7.0\Lab_2.AssemblyInfoInputs.cache
+D:\Workspace\C#\Lab\Lab_2\obj\Debug\net7.0\Lab_2.AssemblyInfo.cs
+D:\Workspace\C#\Lab\Lab_2\obj\Debug\net7.0\Lab_2.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Lab\Lab_2\obj\Debug\net7.0\Lab_2.dll
+D:\Workspace\C#\Lab\Lab_2\obj\Debug\net7.0\refint\Lab_2.dll
+D:\Workspace\C#\Lab\Lab_2\obj\Debug\net7.0\Lab_2.pdb
+D:\Workspace\C#\Lab\Lab_2\obj\Debug\net7.0\Lab_2.genruntimeconfig.cache
+D:\Workspace\C#\Lab\Lab_2\obj\Debug\net7.0\ref\Lab_2.dll
