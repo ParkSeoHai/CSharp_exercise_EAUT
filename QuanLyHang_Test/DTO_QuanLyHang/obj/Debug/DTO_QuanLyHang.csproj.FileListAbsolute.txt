@@ -1,0 +1,10 @@
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\DTO_QuanLyHang\bin\Debug\DTO_QuanLyHang.exe.config
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\DTO_QuanLyHang\bin\Debug\DTO_QuanLyHang.exe
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\DTO_QuanLyHang\bin\Debug\DTO_QuanLyHang.pdb
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\DTO_QuanLyHang\obj\Debug\DTO_QuanLyHang.csproj.AssemblyReference.cache
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\DTO_QuanLyHang\obj\Debug\DTO_QuanLyHang.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\DTO_QuanLyHang\obj\Debug\DTO_QuanLyHang.Properties.Resources.resources
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\DTO_QuanLyHang\obj\Debug\DTO_QuanLyHang.csproj.GenerateResource.cache
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\DTO_QuanLyHang\obj\Debug\DTO_QuanLyHang.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\DTO_QuanLyHang\obj\Debug\DTO_QuanLyHang.exe
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\DTO_QuanLyHang\obj\Debug\DTO_QuanLyHang.pdb

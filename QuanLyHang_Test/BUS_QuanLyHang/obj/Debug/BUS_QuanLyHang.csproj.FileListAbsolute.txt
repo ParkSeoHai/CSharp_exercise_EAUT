@@ -1,0 +1,17 @@
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\bin\Debug\BUS_QuanLyHang.exe.config
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\bin\Debug\BUS_QuanLyHang.exe
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\bin\Debug\BUS_QuanLyHang.pdb
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\bin\Debug\DAL_QuanLyHang.exe
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\bin\Debug\DTO_QuanLyHang.exe
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\bin\Debug\DAL_QuanLyHang.pdb
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\bin\Debug\DAL_QuanLyHang.exe.config
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\bin\Debug\DTO_QuanLyHang.pdb
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\bin\Debug\DTO_QuanLyHang.exe.config
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\obj\Debug\BUS_QuanLyHang.csproj.AssemblyReference.cache
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\obj\Debug\BUS_QuanLyHang.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\obj\Debug\BUS_QuanLyHang.Properties.Resources.resources
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\obj\Debug\BUS_QuanLyHang.csproj.GenerateResource.cache
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\obj\Debug\BUS_QuanLyHang.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\obj\Debug\BUS_QuanLyHang.csproj.CopyComplete
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\obj\Debug\BUS_QuanLyHang.exe
+D:\Workspace\C#\LAB_EAUT\QuanLyHang_Test\BUS_QuanLyHang\obj\Debug\BUS_QuanLyHang.pdb
