@@ -1,0 +1,15 @@
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\bin\Debug\DAL_LAB8.exe.config
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\bin\Debug\DAL_LAB8.exe
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\bin\Debug\DAL_LAB8.pdb
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\bin\Debug\DTO_LAB8.exe
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\bin\Debug\DTO_LAB8.pdb
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\bin\Debug\DTO_LAB8.exe.config
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\obj\Debug\DAL_LAB8.csproj.AssemblyReference.cache
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\obj\Debug\DAL_LAB8.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\obj\Debug\DAL_LAB8.Form2.resources
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\obj\Debug\DAL_LAB8.Properties.Resources.resources
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\obj\Debug\DAL_LAB8.csproj.GenerateResource.cache
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\obj\Debug\DAL_LAB8.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\obj\Debug\DAL_LAB8.csproj.CopyComplete
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\obj\Debug\DAL_LAB8.exe
+D:\Workspace\C#\LAB_EAUT\Lab8\DAL_LAB8\obj\Debug\DAL_LAB8.pdb
