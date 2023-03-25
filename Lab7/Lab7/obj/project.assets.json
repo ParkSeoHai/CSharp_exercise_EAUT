@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\C#\\WindowsForm\\Lab7\\Lab7\\Lab7.csproj",
+      "projectUniqueName": "D:\\Workspace\\C#\\LAB_EAUT\\Lab7\\Lab7\\Lab7.csproj",
       "projectName": "Lab7",
-      "projectPath": "D:\\Workspace\\C#\\WindowsForm\\Lab7\\Lab7\\Lab7.csproj",
+      "projectPath": "D:\\Workspace\\C#\\LAB_EAUT\\Lab7\\Lab7\\Lab7.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\C#\\WindowsForm\\Lab7\\Lab7\\obj\\",
+      "outputPath": "D:\\Workspace\\C#\\LAB_EAUT\\Lab7\\Lab7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
