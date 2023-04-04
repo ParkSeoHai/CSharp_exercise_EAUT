@@ -99,7 +99,7 @@
             // dtGridViewBT1
             // 
             this.dtGridViewBT1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dtGridViewBT1.Location = new System.Drawing.Point(562, 136);
+            this.dtGridViewBT1.Location = new System.Drawing.Point(562, 146);
             this.dtGridViewBT1.Name = "dtGridViewBT1";
             this.dtGridViewBT1.RowHeadersWidth = 62;
             this.dtGridViewBT1.RowTemplate.Height = 28;
